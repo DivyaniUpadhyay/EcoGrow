@@ -29,7 +29,7 @@ One of our key services is the provision of Milk Services, where we employ advan
  
 Project Demo Link -  
 
-Github Repository Link : https://github.com/ShubhamRaghu03/ECOGROW/tree/main
+Github Repository Link : (https://github.com/ShubhamRaghu03/ECOGROW.git)
 
 Contributer - (1)Shubham Raghuwanshi (https://github.com/ShubhamRaghu03)
               (2)Gouri Phadnis   ((https://github.com/gouriphadnis03)
