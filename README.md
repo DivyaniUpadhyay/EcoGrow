@@ -31,7 +31,7 @@ Project Demo Link -
 
 Github Repository Link : 
 
-Contributer - (1)Gouri phadnis
-              (2)Shubham Raghuwanshi
+Contributer - (1)Shubham Raghuwanshi 
+              (2)Gouri Phadnis
               (3)Divyani Upadhyay
               (4)Anushka Mishra
