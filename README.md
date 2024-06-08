@@ -25,6 +25,8 @@ One of our key services is the provision of Milk Services, where we employ advan
  
 Project Demo Link - (https://youtu.be/vrEdcR3uQQo?si=SdqBVwq4lUH4hy69)
 
+Project link : https://gentle-rock-04f25f800.5.azurestaticapps.net/
+
 Github Repository Link : (https://github.com/ShubhamRaghu03/ECOGROW.git)
 
 Contributer - (1)Shubham Raghuwanshi (https://github.com/ShubhamRaghu03)
