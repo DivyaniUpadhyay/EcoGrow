@@ -3,7 +3,7 @@ Project Title - EcoGrow
 Industry : Earth
  
 problem Statement :
-Many farmers around the world face significant challenges in accessing reliable markets for their milk, dairy products, and organic fertilizers. Traditional distribution channels often involve multiple intermediaries, leading to reduced profits for farmers and higher prices for consumers. Additionally, farmers struggle to implement sustainable farming practices due to limited access to organic fertilizers and technical know-how
+Many farmers around the world face significant challenges in accessing reliable markets for their milk, dairy products, and organic fertilizers. Traditional distribution channels often involve multiple intermediaries, leading to reduced profits for farmers and higher prices for consumers. Additionally, farmers struggle to implement sustainable farming practices due to limited access to organic fertilizers and technical know-how.
 
 Technology Stack - (1) HTML
                    (2) CSS
@@ -21,17 +21,13 @@ At the core of our project lies a commitment to supporting farmers and empowerin
 One of our key services is the provision of Milk Services, where we employ advanced methods for milk production, storage, and distribution. By implementing modern technologies, we ensure that farmers have access to state-of-the-art equipment and practices, resulting in higher-quality milk products. Through our platform, consumers can directly access fresh milk, fostering a direct connection between producers and end-users.
 
  Screenshots :
-
 (https://github.com/ShubhamRaghu03/ECOGROW/assets/171672462/7cc9f285-08d0-45b2-8950-874567b24650)
-
-
-
  
 Project Demo Link - (https://youtu.be/vrEdcR3uQQo?si=SdqBVwq4lUH4hy69)
 
 Github Repository Link : (https://github.com/ShubhamRaghu03/ECOGROW.git)
 
 Contributer - (1)Shubham Raghuwanshi (https://github.com/ShubhamRaghu03)
-              (2)Gouri Phadnis   ((https://github.com/gouriphadnis03)
-              (3)Divyani Upadhyay  (https://github.com/DivyaniUpadhyay)
-              (4)Anushka Mishra
+              (2)Divyani Upadhyay    (https://github.com/DivyaniUpadhyay)
+              (3)Gouri Phadnis       (https://github.com/gouriphadnis03)
+              (4)Anushka Mishra      (-https://github.com/01122IT221013)
