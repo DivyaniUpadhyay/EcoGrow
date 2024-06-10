@@ -20,6 +20,15 @@ Our project stands at the forefront of agricultural innovation, merging traditio
 At the core of our project lies a commitment to supporting farmers and empowering them with the resources they need to thrive. We offer a diverse array of services tailored to meet the various needs of farmers, while also catering to the demands of consumers who seek fresh, healthy produce.
 One of our key services is the provision of Milk Services, where we employ advanced methods for milk production, storage, and distribution. By implementing modern technologies, we ensure that farmers have access to state-of-the-art equipment and practices, resulting in higher-quality milk products. Through our platform, consumers can directly access fresh milk, fostering a direct connection between producers and end-users.
 
+Team contribution - 
+ Shubham Raghuwanshi - works on HTML and Problem statment 
+ Gouri Phadnis - works on CSS and Business idea of website 
+ Divyani Upadhyay - works on JavaScript 
+ Anushka Mishra - works on Azure sevices
+
+
+
+
  Screenshots :
 (https://github.com/ShubhamRaghu03/ECOGROW/assets/171672462/7cc9f285-08d0-45b2-8950-874567b24650)
  
