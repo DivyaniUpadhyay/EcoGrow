@@ -30,7 +30,8 @@ Team contribution -
 
 
  Screenshots :
-(https://github.com/ShubhamRaghu03/ECOGROW/assets/171672462/7cc9f285-08d0-45b2-8950-874567b24650)
+
+
  
 Project Demo Link - (https://youtu.be/vrEdcR3uQQo?si=SdqBVwq4lUH4hy69)
 
