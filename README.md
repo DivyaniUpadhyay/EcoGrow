@@ -31,7 +31,17 @@ Team contribution -
 
 
 
- Screenshots :
+# Screenshots :
+# (1) Home Page:![Screenshot 2024-06-11 103916](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/928a34c9-f04e-488a-92a1-b9f6b06d4928)
+# (2) About Page:![Screenshot 2024-06-11 104033](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/45a3f188-ed85-4029-aeff-77d7c93f179f)
+
+# (3) Service Page:![Screenshot 2024-06-11 104055](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/7208f57f-2bb8-48e3-a001-41e5631a5dfb)
+
+# (4) Contact Page:![Screenshot 2024-06-11 104221](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/44f61701-32d9-4eb7-8628-da113f43b4ce)
+
+# (5) Chatbot Page:![Screenshot 2024-06-11 104148](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/5084b575-ada1-4461-a595-9197cb0e8554)
+
+
 
 
  
