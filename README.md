@@ -1,28 +1,23 @@
-This is 5 Page Agriculture Front End website design
-
-# Web Technologies used:
-HTML, CSS, JS, Bootstrap
-
-# IDE: 
-VS-Code
-
-# Note:
-Bot is deployed on chatbot page
-
-# Industry:
-Earth
+# Industry Type:
+  Earth
 
 # Project Title:
- Agriculture Website EcoGrow
- 
+  EcoGrow
+
 # Problem Statement:
-Every farmer around the world face significant challenges in accessing reliable markets for their dairy products, organic product and the services that they provide. we are working on "direct-to-consumer" (DTC) or "farm-to-table" models. This approach is aiming to eliminate intermediaries between farmers and consumers, thereby allowing farmers to capture more of the profits and offer products at more competitive prices.
+  Every farmer around the world face significant challenges in accessing reliable markets for their dairy products, organic product and the services that they provide. we are working on "direct-to-consumer" (DTC) or 
+ "farm-to-table" models. This approach is aiming to eliminate intermediaries between farmers and consumers, thereby allowing farmers to capture more of the profits and offer products at more competitive prices.
 
 # Project Description:
-Our project stands at the forefront of agriculture innovation. Our initiatives represent a new approach to agricultural advancement, seamlessly blending age-old agricultural wisdom with cutting-edge technological innovations to bring about transformational changes in the agricultural landscape. Grounded in the principles of sustainability, efficiency and excellence, we harness the power of modern tools such as HTML, CSS and JavaScript to streamline operations and advance the agricultural journey.
+  Our project stands at the forefront of agriculture innovation. Our initiatives represent a new approach to agricultural advancement, seamlessly blending age-old agricultural wisdom with cutting-edge technological 
+  innovations to bring about transformational changes in the agricultural landscape. Grounded in the principles of sustainability, efficiency and excellence, we harness the power of modern tools such as HTML, CSS and 
+  JavaScript to streamline operations and advance the agricultural journey.
 
-Central to our mission is a steadfast dedication to empower farmers, offering a comprehensive suite of services carefully crafted to meet the diverse needs of farmers and satisfy consumers' craving for premium farm-fresh produce.
-The backbone of our offerings is our milk services segment, where we leverage successful methods for milk production, storage and distribution. By adopting cutting-edge technologies, we equip farmers with top-notch equipment and methods, resulting in unmatched quality in milk products. Through our platform, consumers get direct access to freshly sourced milk, organic products and convenience provided by farmers, creating a direct link between producers and end consumers and also increasing farmers' incomes.
+  Central to our mission is a steadfast dedication to empower farmers, offering a comprehensive suite of services carefully crafted to meet the diverse needs of farmers and satisfy consumers' craving for premium farm- 
+  fresh produce.
+  The backbone of our offerings is our milk services segment, where we leverage successful methods for milk production, storage and distribution. By adopting cutting-edge technologies, we equip farmers with top-notch 
+  equipment and methods, resulting in unmatched quality in milk products. Through our platform, consumers get direct access to freshly sourced milk, organic products and convenience provided by farmers, creating a direct 
+  link between producers and end consumers and also increasing farmers' incomes.
 
 # Project Outline:
 # (1)Home Page: 
@@ -49,6 +44,12 @@ The backbone of our offerings is our milk services segment, where we leverage su
 
 # (5) Chatbot Page:![Screenshot 2024-06-11 104148](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/5084b575-ada1-4461-a595-9197cb0e8554)
 
+# Web Technologies used:
+ (1)HTML
+ (2)CSS
+ (3)JS
+ (4)Bootstrap
+
 # Primary Azure Technology:
 (1)	 Static web app 
 (2)	 Language AI
@@ -61,9 +62,9 @@ The backbone of our offerings is our milk services segment, where we leverage su
 # (2) Virtual Machine: ![Screenshot 2024-06-11 111659](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ef039334-f95b-4a7d-b7ef-11edb0a0344e)
 
 # Team Contributions:
-This project is the result of collaborative efforts from a dedicated team. 
-Each member has made significant contributions to different aspects of the project. 
-Here's a breakdown of our team's contributions:
+  This project is the result of collaborative efforts from a dedicated team. 
+  Each member has made significant contributions to different aspects of the project. 
+  Here's a breakdown of our team's contributions:
                                            
 # Team Members: 
 # (1) Shubham Raghuvanshi 
