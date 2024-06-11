@@ -17,21 +17,29 @@ Earth
  
 # Problem Statement:
 Every farmer around the world face significant challenges in accessing reliable markets for their dairy products, organic product and the services that they provide. we are working on "direct-to-consumer" (DTC) or "farm-to-table" models. This approach is aiming to eliminate intermediaries between farmers and consumers, thereby allowing farmers to capture more of the profits and offer products at more competitive prices.
-Project Description:
+
+# Project Description:
 Our project stands at the forefront of agriculture innovation. Our initiatives represent a new approach to agricultural advancement, seamlessly blending age-old agricultural wisdom with cutting-edge technological innovations to bring about transformational changes in the agricultural landscape. Grounded in the principles of sustainability, efficiency and excellence, we harness the power of modern tools such as HTML, CSS and JavaScript to streamline operations and advance the agricultural journey.
 
 Central to our mission is a steadfast dedication to empower farmers, offering a comprehensive suite of services carefully crafted to meet the diverse needs of farmers and satisfy consumers' craving for premium farm-fresh produce.
 The backbone of our offerings is our milk services segment, where we leverage successful methods for milk production, storage and distribution. By adopting cutting-edge technologies, we equip farmers with top-notch equipment and methods, resulting in unmatched quality in milk products. Through our platform, consumers get direct access to freshly sourced milk, organic products and convenience provided by farmers, creating a direct link between producers and end consumers and also increasing farmers' incomes.
 
-Project Description:
-# (1)Home Page:
-# (1)About Page:
-# (1)Service Page:
-# (1)Contact Page:
-# (1)Chatbot Page:
+# Project Outline:
+# (1)Home Page: 
+     It is the home page of our wesbite , in this page we provide the facility of the new ways to invest in agriculture and types of services such as  Weed Control Pest Control Grass Seeding Industry Oriented
+     Fresh Milk products
+# (2)About Page:
+     In the about page we provide the infromation related to agriculture product. We directly provides high quality organic product from farmer to consumer.
+# (3)Service Page:
+     In this page we provide services like Tree planting, Healthy Milk, Rush Removal, Garden clean up.
+# (4)Contact Page:
+     By visiting the contact page the customer can share their problem with us.
+# (5)Chatbot Page:
+     In the chatbot user can ask question related to farming and their products or any queries about our websites.
 
 # Screenshots :
-# (1) Home Page:![Screenshot 2024-06-11 103916](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/928a34c9-f04e-488a-92a1-b9f6b06d4928)
+# (1) Home Page:
+ ![Screenshot 2024-06-11 103916](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/928a34c9-f04e-488a-92a1-b9f6b06d4928)
 
 # (2) About Page:![Screenshot 2024-06-11 104033](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/45a3f188-ed85-4029-aeff-77d7c93f179f)
 
