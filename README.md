@@ -23,7 +23,7 @@ Our project stands at the forefront of agriculture innovation. Our initiatives r
 Central to our mission is a steadfast dedication to empower farmers, offering a comprehensive suite of services carefully crafted to meet the diverse needs of farmers and satisfy consumers' craving for premium farm-fresh produce.
 The backbone of our offerings is our milk services segment, where we leverage successful methods for milk production, storage and distribution. By adopting cutting-edge technologies, we equip farmers with top-notch equipment and methods, resulting in unmatched quality in milk products. Through our platform, consumers get direct access to freshly sourced milk, organic products and convenience provided by farmers, creating a direct link between producers and end consumers and also increasing farmers' incomes.
 
-# Project Description:
+Project Description:
 # (1)Home Page:
 # (1)About Page:
 # (1)Service Page:
@@ -74,14 +74,14 @@ Here's a breakdown of our team's contributions:
 
 # (3) Gouri Phadnis 
   # GitHub URL: 
-  https://github.com/gouriphadnis03
+    https://github.com/gouriphadnis03
   (i)   	Experienced in CSS styling, capable of creating visually appealing and responsive web designs.
   (ii)	  Demonstrates a knack for identifying and resolving CSS-related issues efficiently, contributing to the smooth functioning of projects.
   (iii) 	Works collaboratively within teams to understand and address problem statements effectively, ensuring CSS solutions align with project requirements and objectives.
 
 # (4) Anushka Mishra
   # GitHub URL:
-  https://github.com/01122IT221013
+    https://github.com/01122IT221013
 (i)   Proficient in developing chatbots using frameworks like Dialog flow, Microsoft Bot Framework, or custom solutions using Python or JavaScript.
 (ii)  Experienced in implementing natural language understanding (NLU) and natural language processing (NLP) techniques to enhance chatbot interactions and understand user intents accurately.
 (iii)	Proficient in deploying chatbots to production environments and maintaining their performance and reliability.
