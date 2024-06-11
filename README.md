@@ -41,6 +41,12 @@ Team contribution -
 
 # (5) Chatbot Page:![Screenshot 2024-06-11 104148](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/5084b575-ada1-4461-a595-9197cb0e8554)
 
+# Azure Technology:
+# (1) Azure Technologies:![Screenshot 2024-06-11 111642](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ac83e1cd-1b10-4c52-94b0-1fd37b908749)
+# (2) Virtual Machine: ![Screenshot 2024-06-11 111659](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ef039334-f95b-4a7d-b7ef-11edb0a0344e)
+
+
+
 
 
 
