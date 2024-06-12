@@ -87,14 +87,14 @@
                                            
  # Team Members: 
  (1) Shubham Raghuwanshi 
-   GitHub URL:  
-    https://github.com/ShubhamRaghu03
+     GitHub URL:  
+     https://github.com/ShubhamRaghu03
   (i)	  Proficient in HTML development, adept at creating structured and semantic web pages.
   (ii) 	Skilled in addressing challenges within projects, employing creative and effective solutions to overcome obstacles.                                                                                                  
   (iii)	Capable of understanding and addressing project requirements, ensuring clear communication and alignment with project goals.
 
  (2) Divyani Upadhyay 
-   GitHub URL:
+    GitHub URL:
     https://github.com/DivyaniUpadhyay
    (i)	   Proficient in JavaScript, with a deep understanding of its core concepts and modern frameworks/libraries.
    (ii)   Skilled in tackling complex problems using JavaScript, employing logical reasoning and innovative solutions to overcome challenges.
@@ -102,14 +102,14 @@
 
  (3) Gouri Phadnis 
      GitHub URL: 
-    https://github.com/gouriphadnis03
+     https://github.com/gouriphadnis03
   (i)   	Experienced in CSS styling, capable of creating visually appealing and responsive web designs.
   (ii)	  Demonstrates a knack for identifying and resolving CSS-related issues efficiently, contributing to the smooth functioning of projects.
   (iii) 	Works collaboratively within teams to understand and address problem statements effectively, ensuring CSS solutions align with project requirements and objectives.
 
  (4) Anushka Mishra
      GitHub URL:
-    https://github.com/01122IT221013
+     https://github.com/01122IT221013
 (i)   Proficient in developing chatbots using frameworks like Dialog flow, Microsoft Bot Framework, or custom solutions using Python or JavaScript.
 (ii)  Experienced in implementing natural language understanding (NLU) and natural language processing (NLP) techniques to enhance chatbot interactions and understand user intents accurately.
 (iii)	Proficient in deploying chatbots to production environments and maintaining their performance and reliability.
