@@ -51,7 +51,7 @@
  (4)Bootstrap
 
 # The Core Azure Service Used:-
-# (1) Azure Static Web app:
+# (1) Azure Static Web App:
      Static Web app is a services provided by Microsoft Azure. It is designed to setup, configure, build, deploy,
      and host modern web application.With the help of this user can easily navigate the site,learn about services,
      schedule appointments and contact the farmer for the help you want from the farmer related to the agriculture
@@ -59,13 +59,20 @@
      
 ![Screenshot 2024-06-11 111642](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ac83e1cd-1b10-4c52-94b0-1fd37b908749)
 
-# (2) Virtual Machine:
+# (2) Azure Virtual Machine:
       Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. 
       It is used for hosting our websites,development and testing, it looks after data 
       managment and security.It manages the patient data, support developmentand monitor 
       the acitivites.
 
 ![Screenshot 2024-06-11 111659](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ef039334-f95b-4a7d-b7ef-11edb0a0344e)
+# (3) Azure AI Chatbot:
+      We have implemented an AI chatbot tailored specifically for agricultural websites. 
+      The chatbot can address inquiries related to farming practices, crop management and 
+      pest control. By harnessing the power of AI, our agricultural website provides user 
+      with timely and accurate information.
+![Screenshot 2024-06-12 095552](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/0c4c8ddc-6865-48ed-bdb5-1d9509b677c4)
+
 
 # Team Contributions:
   This project is the result of collaborative efforts from a dedicated team. 
@@ -101,7 +108,7 @@
 (ii)  Experienced in implementing natural language understanding (NLU) and natural language processing (NLP) techniques to enhance chatbot interactions and understand user intents accurately.
 (iii)	Proficient in deploying chatbots to production environments and maintaining their performance and reliability.
 
-
+# URL LINK:-
 # (1)	Project Demo Link:
      https://youtu.be/vrEdcR3uQQo?si=SdqBVwq4lUH4hy69
 
