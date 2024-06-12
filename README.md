@@ -26,10 +26,10 @@ INDUSTRY : EARTH
 
  
 # URL LINK:-
- (1)	Project Demo Link:
+ (1)	Project Video Link:
   https://youtu.be/vrEdcR3uQQo?si=SdqBVwq4lUH4hy69
 
- (2) Project link:
+ (2) Project Demo link:
   https://gentle-rock-04f25f800.5.azurestaticapps.net/
 
  (3) GitHub Repository Link:
