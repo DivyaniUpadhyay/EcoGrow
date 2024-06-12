@@ -1,5 +1,5 @@
 # ECOGROW 
-   The project is made for agriculture purpose and it is mainly prepared for FRT project.
+   This project is made for agriculture purpose and it is mainly prepared for FRT project.
    
 PROJECT NAME: ECOGROW
 
