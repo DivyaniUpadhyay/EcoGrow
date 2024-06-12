@@ -19,37 +19,30 @@
   equipment and methods, resulting in unmatched quality in milk products. Through our platform, consumers get direct access to freshly sourced milk, organic products and convenience provided by farmers, creating a direct 
   link between producers and end consumers and also increasing farmers' incomes.
 
-# Project Outline:
-(1) Home Page : 
-     It is the home page of our wesbite , in this page we provide the facility of the new ways to invest in agriculture and 
-     types of services such as  Weed Control Pest Control Grass Seeding Industry Oriented Fresh Milk products
-     
-(2) About Page :
-     In the about page we provide the infromation related to agriculture product. We directly provides high quality organic 
-     product from farmer to consumer.
-     
-(3) Service Page :
-     In this page we provide services like Tree planting, Healthy Milk, Rush Removal, Garden clean up.
-     
-(4) Contact Page :
-     By visiting the contact page the customer can share their problem with us.
-     
-(5) Chatbot Page :
-     In the chatbot user can ask question related to farming and their products or any queries about our websites.
-
 # Web Page Capture :
 # (1) Home Page:
-    It is the home page of our wesbite , in this page we provide the facility of the new ways to invest in agriculture and 
-    types of services such as  Weed Control Pest Control Grass Seeding Industry Oriented Fresh Milk products
+    It is the home page of our wesbite , in this page we provide the facility of 
+    the new ways to invest in agriculture and types of services such as  Weed 
+    Control Pest Control Grass Seeding Industry Oriented Fresh Milk products
  ![Screenshot 2024-06-11 103916](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/928a34c9-f04e-488a-92a1-b9f6b06d4928)
 
-# (2) About Page:![Screenshot 2024-06-11 104033](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/45a3f188-ed85-4029-aeff-77d7c93f179f)
+# (2) About Page:
+     In the about page we provide the infromation related to agriculture product. 
+     We directly provides high quality organic product from farmer to consumer.
 
-# (3) Service Page:![Screenshot 2024-06-11 104055](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/7208f57f-2bb8-48e3-a001-41e5631a5dfb)
+![Screenshot 2024-06-11 104033](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/45a3f188-ed85-4029-aeff-77d7c93f179f)
 
-# (4) Contact Page:![Screenshot 2024-06-11 104221](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/44f61701-32d9-4eb7-8628-da113f43b4ce)
+# (3) Service Page:
+      In this page we provide services like Tree planting, Healthy Milk, Rush Removal, Garden clean up.
+![Screenshot 2024-06-11 104055](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/7208f57f-2bb8-48e3-a001-41e5631a5dfb)
 
-# (5) Chatbot Page:![Screenshot 2024-06-11 104148](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/5084b575-ada1-4461-a595-9197cb0e8554)
+# (4) Contact Page: 
+      By visiting the contact page the customer can share their problem with us.
+![Screenshot 2024-06-11 104221](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/44f61701-32d9-4eb7-8628-da113f43b4ce)
+
+# (5) Chatbot Page:
+      In the chatbot user can ask question related to farming and their products or any queries about our websites.
+![Screenshot 2024-06-11 104148](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/5084b575-ada1-4461-a595-9197cb0e8554)
 
 # Web Technologies Used:
  (1) HTML
