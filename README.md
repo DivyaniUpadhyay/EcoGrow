@@ -50,14 +50,7 @@
  (3)JS
  (4)Bootstrap
 
-# Primary Azure Technology:
-(1)	 Static web app 
-(2)	 Language AI
-(3)	 Bot Services 
-(4)	 Virtual Machine
-(5)	 QnA Maker 
-
-# Azure Technology:
+# The Core Azure Service Used:-
 # (1) Azure Technologies:![Screenshot 2024-06-11 111642](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ac83e1cd-1b10-4c52-94b0-1fd37b908749)
 # (2) Virtual Machine: ![Screenshot 2024-06-11 111659](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ef039334-f95b-4a7d-b7ef-11edb0a0344e)
 
