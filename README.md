@@ -73,8 +73,13 @@
       pest control. By harnessing the power of AI, our agricultural website provides user 
       with timely and accurate information.
 ![Screenshot 2024-06-12 095552](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/0c4c8ddc-6865-48ed-bdb5-1d9509b677c4)
-
-
+# (4) Azure AI Language:
+      Azure AI Language services, powered by Microsoft Azure, provide a suite of tools
+      and solutions tailored for agricultural language processing tasks. These services 
+      empower developers to seamlessly incorporate AI functionalities into their applications
+      without the necessity of constructing and training models from the ground up.
+ ![Screenshot 2024-06-12 095609](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/b7b48c82-ffd4-472f-8ce6-02257564f69c)
+     
 # Team Contributions:
   This project is the result of collaborative efforts from a dedicated team. 
   Each member has made significant contributions to different aspects of the project. 
