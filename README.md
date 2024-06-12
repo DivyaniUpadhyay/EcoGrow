@@ -37,7 +37,7 @@
 (5) Chatbot Page :
      In the chatbot user can ask question related to farming and their products or any queries about our websites.
 
-# Web page Capture :
+# Web Page Capture :
 # (1) Home Page:
  ![Screenshot 2024-06-11 103916](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/928a34c9-f04e-488a-92a1-b9f6b06d4928)
 
@@ -125,7 +125,7 @@ GitHub URL: https://github.com/01122IT221013
 (ii)  Experienced in implementing natural language understanding (NLU) and natural language processing (NLP) techniques to enhance chatbot interactions and understand user intents accurately.
 (iii)	Proficient in deploying chatbots to production environments and maintaining their performance and reliability.
 
-# Screenshot:
+# Screenshots:
 # Home Page
  ![Screenshot 2024-06-11 103916](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/928a34c9-f04e-488a-92a1-b9f6b06d4928)
 # About Page
