@@ -1,10 +1,13 @@
-# Industry Type:
-  Earth
+# ECOGROW 
+   The project is made for agriculture purpose and it is mainly prepared for FRT project.
+      PROJECT NAME: ECOGROW
+      INDUSTRY : EARTH
 
 # Project Title:
-  EcoGrow
+   EcoGrow : Your Gateway to Pure Milk, Organic Fertilizer and Pest Management Solutions - Connect and
+             Consult
 
-# Problem Statement:
+  # Problem Statement:
   Every farmer around the world face significant challenges in accessing reliable markets for their dairy products, organic product and the services that they provide. we are working on "direct-to-consumer" (DTC) or 
  "farm-to-table" models. This approach is aiming to eliminate intermediaries between farmers and consumers, thereby allowing farmers to capture more of the profits and offer products at more competitive prices.
 
@@ -18,6 +21,18 @@
   The backbone of our offerings is our milk services segment, where we leverage successful methods for milk production, storage and distribution. By adopting cutting-edge technologies, we equip farmers with top-notch 
   equipment and methods, resulting in unmatched quality in milk products. Through our platform, consumers get direct access to freshly sourced milk, organic products and convenience provided by farmers, creating a direct 
   link between producers and end consumers and also increasing farmers' incomes.
+
+ 
+# URL LINK:-
+ (1)	Project Demo Link:
+  https://youtu.be/vrEdcR3uQQo?si=SdqBVwq4lUH4hy69
+
+ (2) Project link:
+  https://gentle-rock-04f25f800.5.azurestaticapps.net/
+
+ (3) GitHub Repository Link:
+  https://github.com/ShubhamRaghu03/ECOGROW.git
+ 
 
 # Web Page Capture :
 # (1) Home Page:
@@ -142,16 +157,6 @@ GitHub URL: https://github.com/01122IT221013
 ![Screenshot 2024-06-12 095609](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/b7b48c82-ffd4-472f-8ce6-02257564f69c)
 
 
-
-# URL LINK:-
- (1)	Project Demo Link:
-     https://youtu.be/vrEdcR3uQQo?si=SdqBVwq4lUH4hy69
-
- (2) Project link:
-     https://gentle-rock-04f25f800.5.azurestaticapps.net/
-
- (3) GitHub Repository Link:
-     https://github.com/ShubhamRaghu03/ECOGROW.git
 
 
 
