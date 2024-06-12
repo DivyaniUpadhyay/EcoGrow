@@ -55,6 +55,9 @@ INDUSTRY : EARTH
 
 # (4) Contact Page: 
       By visiting the contact page the customer can share their problem with us.
+      NOTE: The contact us page is intentionally static and does not have dynamic functionality.This page is just for enhancing 
+            the website view,as we had not developed the backend. "SUBMIT NOW" option is just a placeholder designed for 
+            enhancing purpose only.
 ![Screenshot 2024-06-11 104221](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/44f61701-32d9-4eb7-8628-da113f43b4ce)
 
 # (5) Chatbot Page:
