@@ -39,6 +39,8 @@
 
 # Web Page Capture :
 # (1) Home Page:
+    It is the home page of our wesbite , in this page we provide the facility of the new ways to invest in agriculture and 
+    types of services such as  Weed Control Pest Control Grass Seeding Industry Oriented Fresh Milk products
  ![Screenshot 2024-06-11 103916](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/928a34c9-f04e-488a-92a1-b9f6b06d4928)
 
 # (2) About Page:![Screenshot 2024-06-11 104033](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/45a3f188-ed85-4029-aeff-77d7c93f179f)
