@@ -20,7 +20,7 @@
   link between producers and end consumers and also increasing farmers' incomes.
 
 # Project Outline:
-(1) Home Page :  
+(1) Home Page : 
      It is the home page of our wesbite , in this page we provide the facility of the new ways to invest in agriculture and 
      types of services such as  Weed Control Pest Control Grass Seeding Industry Oriented Fresh Milk products
      
