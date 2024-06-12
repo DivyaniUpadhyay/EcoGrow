@@ -20,22 +20,21 @@
   link between producers and end consumers and also increasing farmers' incomes.
 
 # Project Outline:
-(1) Home Page:  
-      It is the home page of our wesbite , in this page we provide the facility of the new ways to invest in agriculture and 
-     types of services such as  Weed Control Pest Control Grass Seeding Industry Oriented
-     Fresh Milk products
+(1) Home Page :  
+     It is the home page of our wesbite , in this page we provide the facility of the new ways to invest in agriculture and 
+     types of services such as  Weed Control Pest Control Grass Seeding Industry Oriented Fresh Milk products
      
-(2) About Page:
+(2) About Page :
      In the about page we provide the infromation related to agriculture product. We directly provides high quality organic 
      product from farmer to consumer.
      
-(3) Service Page:
+(3) Service Page :
      In this page we provide services like Tree planting, Healthy Milk, Rush Removal, Garden clean up.
      
-(4) Contact Page:
+(4) Contact Page :
      By visiting the contact page the customer can share their problem with us.
      
-(5) Chatbot Page:
+(5) Chatbot Page :
      In the chatbot user can ask question related to farming and their products or any queries about our websites.
 
 # Web page Capture :
