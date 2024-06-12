@@ -60,7 +60,8 @@ INDUSTRY : EARTH
 # (5) Chatbot Page:
      In the chatbot user can ask question related to farming and 
      their products or any queries about our websites.
-![Screenshot 2024-06-11 104148](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/5084b575-ada1-4461-a595-9197cb0e8554)
+![Screenshot 2024-06-12 142723](https://github.com/ShubhamRaghu03/ECOGROW/assets/171672462/15767bff-692a-4d9d-97f3-d8ddc72d667d)
+
 
 # Web Technologies Used:
  (1) HTML
@@ -146,7 +147,7 @@ GitHub URL: https://github.com/01122IT221013
 # Services Page
 ![Screenshot 2024-06-11 104055](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/7208f57f-2bb8-48e3-a001-41e5631a5dfb)
 # Chatbot Page
-![Screenshot 2024-06-11 104148](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/5084b575-ada1-4461-a595-9197cb0e8554)
+![Screenshot 2024-06-12 142723](https://github.com/ShubhamRaghu03/ECOGROW/assets/171672462/15767bff-692a-4d9d-97f3-d8ddc72d667d)
 # Contact Page
 ![Screenshot 2024-06-11 104221](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/44f61701-32d9-4eb7-8628-da113f43b4ce)
 # Azure Static Web App
