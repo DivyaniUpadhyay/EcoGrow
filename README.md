@@ -6,7 +6,7 @@ PROJECT NAME: ECOGROW
 INDUSTRY : EARTH
 
 # Project Title:
-   EcoGrow : Your Gateway to Pure Milk, Organic Fertilizer and Pest Management Solutions - Connect and
+   EcoGrow : Your Gateway to Pure Milk, Organic Agriculture Product and Pest Management Solutions - Connect and
              Consult
 
   # Problem Statement:
