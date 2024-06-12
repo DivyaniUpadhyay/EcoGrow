@@ -87,8 +87,9 @@
                                            
  # Team Members: 
  (1) Shubham Raghuwanshi 
-     GitHub URL:  
-     https://github.com/ShubhamRaghu03
+ 
+     GitHub URL:  https://github.com/ShubhamRaghu03
+     
   (i)	  Proficient in HTML development, adept at creating structured and semantic web pages.
   (ii) 	Skilled in addressing challenges within projects, employing creative and effective solutions to overcome obstacles.                                                                                                  
   (iii)	Capable of understanding and addressing project requirements, ensuring clear communication and alignment with project goals.
