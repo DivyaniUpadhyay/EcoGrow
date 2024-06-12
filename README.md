@@ -58,7 +58,14 @@
      and also about their product.
      
 ![Screenshot 2024-06-11 111642](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ac83e1cd-1b10-4c52-94b0-1fd37b908749)
-# (2) Virtual Machine: ![Screenshot 2024-06-11 111659](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ef039334-f95b-4a7d-b7ef-11edb0a0344e)
+
+# (2) Virtual Machine:
+      Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. 
+      It is used for hosting our websites,development and testing, it looks after data 
+      managment and security.It manages the patient data, support developmentand monitor 
+      the acitivites.
+
+![Screenshot 2024-06-11 111659](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ef039334-f95b-4a7d-b7ef-11edb0a0344e)
 
 # Team Contributions:
   This project is the result of collaborative efforts from a dedicated team. 
