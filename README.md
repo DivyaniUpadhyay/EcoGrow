@@ -1,7 +1,7 @@
 # ECOGROW 
    The project is made for agriculture purpose and it is mainly prepared for FRT project.
-      PROJECT NAME: ECOGROW
-      INDUSTRY : EARTH
+PROJECT NAME: ECOGROW
+INDUSTRY : EARTH
 
 # Project Title:
    EcoGrow : Your Gateway to Pure Milk, Organic Fertilizer and Pest Management Solutions - Connect and
