@@ -30,7 +30,7 @@ INDUSTRY : EARTH
   https://youtu.be/vrEdcR3uQQo?si=SdqBVwq4lUH4hy69
 
  (2) Project Demo link:
- shubhamraghu03.github.io/ECOGROW/
+ https://shubhamraghu03.github.io/ECOGROW/
 
  (3) GitHub Repository Link:
   https://github.com/ShubhamRaghu03/ECOGROW.git
