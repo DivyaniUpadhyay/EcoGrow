@@ -57,7 +57,8 @@
      schedule appointments and contact the farmer for the help you want from the farmer related to the agriculture
      and also about their product.
      
-![Screenshot 2024-06-11 111642](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ac83e1cd-1b10-4c52-94b0-1fd37b908749)
+![Screenshot 2024-06-12 095629](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/cc1b0097-35f2-44b3-92cc-c2c84e5e9778)
+
 
 # (2) Azure Virtual Machine:
       Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. 
