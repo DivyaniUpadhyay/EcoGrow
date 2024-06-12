@@ -55,6 +55,7 @@ INDUSTRY : EARTH
 
 # (4) Contact Page: 
       By visiting the contact page the customer can share their problem with us.
+     Note:-  As our project is a static website showcase,the contact page does not have any dynamic functionality.
 ![Screenshot 2024-06-11 104221](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/44f61701-32d9-4eb7-8628-da113f43b4ce)
 
 # (5) Chatbot Page:
@@ -160,20 +161,7 @@ GitHub URL: https://github.com/01122IT221013
 ![Screenshot 2024-06-12 095609](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/b7b48c82-ffd4-472f-8ce6-02257564f69c)
 
 # Contact :
- Email :- shubham0112it221062@gmail.com
+ E-mail :- shubham0112it221062@gmail.com
 
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
 
