@@ -126,6 +126,25 @@ GitHub URL: https://github.com/01122IT221013
 (iii)	Proficient in deploying chatbots to production environments and maintaining their performance and reliability.
 
 # Screenshot:
+# Home Page
+ ![Screenshot 2024-06-11 103916](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/928a34c9-f04e-488a-92a1-b9f6b06d4928)
+# About Page
+![Screenshot 2024-06-11 104033](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/45a3f188-ed85-4029-aeff-77d7c93f179f)
+# Services Page
+![Screenshot 2024-06-11 104055](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/7208f57f-2bb8-48e3-a001-41e5631a5dfb)
+# Chatbot Page
+![Screenshot 2024-06-11 104148](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/5084b575-ada1-4461-a595-9197cb0e8554)
+# Contact Page
+![Screenshot 2024-06-11 104221](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/44f61701-32d9-4eb7-8628-da113f43b4ce)
+# Azure Static Web App
+![Screenshot 2024-06-12 095629](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/cc1b0097-35f2-44b3-92cc-c2c84e5e9778)
+#  Azure Virtual Machine
+![Screenshot 2024-06-11 111659](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ef039334-f95b-4a7d-b7ef-11edb0a0344e)
+#  Azure AI Chatbot
+![Screenshot 2024-06-12 095552](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/0c4c8ddc-6865-48ed-bdb5-1d9509b677c4)
+# Azure AI Language
+![Screenshot 2024-06-12 095609](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/b7b48c82-ffd4-472f-8ce6-02257564f69c)
+
 
 
 # URL LINK:-
