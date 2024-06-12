@@ -52,9 +52,10 @@
 
 # The Core Azure Service Used:-
 # (1) Azure Static Web app:
-     Static Web app is a services provided by Microsoft Azure . 
-     It is designed to setup, configure, build, deploy, and host modern web application.With the help of this user can easily navigate the site,
-     learn about services, schedule appointments and contact the farmer for the help you want from the farmer related to the agriculture and also about their product.
+     Static Web app is a services provided by Microsoft Azure. It is designed to setup, configure, build, deploy,
+     and host modern web application.With the help of this user can easily navigate the site,learn about services,
+     schedule appointments and contact the farmer for the help you want from the farmer related to the agriculture
+     and also about their product.
      
 ![Screenshot 2024-06-11 111642](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ac83e1cd-1b10-4c52-94b0-1fd37b908749)
 # (2) Virtual Machine: ![Screenshot 2024-06-11 111659](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/ef039334-f95b-4a7d-b7ef-11edb0a0344e)
