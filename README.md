@@ -32,7 +32,7 @@
 # (5)Chatbot Page:
      In the chatbot user can ask question related to farming and their products or any queries about our websites.
 
-# Screenshots :
+# Web page Capture :
 # (1) Home Page:
  ![Screenshot 2024-06-11 103916](https://github.com/ShubhamRaghu03/ECOGROW/assets/171165584/928a34c9-f04e-488a-92a1-b9f6b06d4928)
 
