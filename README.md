@@ -71,7 +71,6 @@ INDUSTRY : EARTH
  
  (3) JS
  
-
 # The Core Azure Service Used:-
 # (1) Azure Static Web App:
      Static Web app is a services provided by Microsoft Azure. It is designed to setup, configure, build, deploy,
